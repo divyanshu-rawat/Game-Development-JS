@@ -1,3 +1,3 @@
-# javascript_work
+# Javascript-Work
  
 Created games based on the knowledge of Javascript.
