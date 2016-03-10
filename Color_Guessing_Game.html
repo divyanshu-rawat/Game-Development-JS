@@ -23,7 +23,7 @@ function do_game()
             guess++;
             check = check_guess(target);
         }
-            document.body.style.backgroundColor = target;
+            document.body.style.backgroundColor = guess_input;
             alert("It took you " + guess + " guesses to finish the game! \n you can see the color in the background");
      }
 function check_guess(target)
