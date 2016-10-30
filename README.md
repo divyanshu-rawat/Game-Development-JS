@@ -1,8 +1,26 @@
-Technologies Used- JSON,J Query,AJAX,JavaScript.
+> A :game_die: javascript Game ! :dart:
 
-Summary- Provide five circles for the user to select or click on. When the user hovers their mouse over a circle, that circle and all circles to the left must be filled with a color, such as yellow. Provide a configurable number of circles for the user to click on.Allow the number of circles to be updated by a text-box. This is to simulate an administration widget.we will not be adding any form of security to the widget. Final feature to my rating widget,the ability to send the rating to a service. The service has already been created. The service will act as a simple echo service, taking the rating you submit inside a JSON object, and then sending back a JSON containing a message.
+### Description 
 
-How To use:- Just Download it and Launch in any of your preferred browser.
+* When the game starts, five faces are shown on the left and four are shown on the right.
 
-![alt tag](https://github.com/divyanshu-rawat/Javascript-Work/blob/master/Screenshot%20from%202016-07-13%2000:24:15.png)
+* There will always be one extra face shown on the left the user needs to click on that extra face.
 
+* The left and right sides are identical, except for one thing the left side has one extra face.
+
+### Installation Instructions :grey_exclamation:
+
+* clone or download the repo. into any fresh temporary folder.
+
+* cd into that root folder you just cloned locally.
+
+* launch Color_Guessing_Game.html or Matching_Game.html depending upon what you want to enjoy. 
+
+* I have attached screenshots below depicting various features of web app !
+
+
+
+### Examples !
+
+
+![alt tag](https://github.com/divyanshu-rawat/Javascript-Work/blob/master/snap_shot/game.png)
