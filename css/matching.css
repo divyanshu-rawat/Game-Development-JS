@@ -1,31 +1,38 @@
- 
- img
-   {
-       position: absolute;
-       /*box-shadow: 2px 2px 4px black;*/
-   }
 
-   #leftside
-   {
-       position: absolute;
-       height: 500px;
-       width: 500px;
-       /*border: 1px solid red;*/
-       margin-left: 5%;
-   }
-   #rightside
-   {
-       position: absolute;
-       height:500PX; 
-       width: 500px;
-       left: 500px;
-       border-left: 2px solid black;
-       margin-left: 15%;
-       /*border: 1px solid black;*/
-   }
+img
+{
+   position: absolute;
+}
 
- body
- {
+#leftside
+{
+   position: absolute;
+   height: 500px;
+   width: 500px;
+   margin-left: 5%;
+}
+#rightside
+{
+   position: absolute;
+   height:500PX; 
+   width: 500px;
+   left: 455px;
+   border-left: 2px solid white;
+   margin-left: 15%;
+}
+
+
+p,h2
+{
+  color: white;
+  font-family: 'Dancing Script', cursive !important;
+  font-size:20px !important;
+}
+
+body
+{
   font-family: cursive;
   text-align: center;
- }
+  background: black !important;
+
+}
