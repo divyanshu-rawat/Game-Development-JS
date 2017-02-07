@@ -8,6 +8,14 @@
 
 ##
 
+### Demo 
+
+> [Live Demo Here !] (http://divyanshu-rawat.github.io/Game-development-JS/)
+
+##
+
+
+
 ### Description 
 
 * When the game starts, five faces are shown on the left and four are shown on the right.
