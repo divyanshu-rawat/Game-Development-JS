@@ -5,8 +5,8 @@
      var target_index = Math.random() * 10;
      target_index = Math.floor(target_index);
      var target = color[target_index];
-     document.write(target);
-     console.log(target);
+     //document.write(target);
+     //console.log(target);
      var check = false;
      var guess = 0;
      
