@@ -1,0 +1,25 @@
+{
+  "name": "jsgame",
+  "version": "1.0.0",
+  "description": "Contains 2 Javascript Games Basically A Project to learn core js.",
+  "main": "Color_Guessing_Game.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyanshu-rawat/Game-Development-JS.git"
+  },
+  "keywords": [
+    "vanilla",
+    "js",
+    "two",
+    "games"
+  ],
+  "author": "Divyanshu Rawat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divyanshu-rawat/Game-Development-JS/issues"
+  },
+  "homepage": "https://github.com/divyanshu-rawat/Game-Development-JS#readme"
+}
