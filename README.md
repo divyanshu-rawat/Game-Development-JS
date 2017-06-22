@@ -11,9 +11,9 @@
 [![NPM](https://img.shields.io/badge/npm-v3.10.10-blue.svg)](https://www.npmjs.com/package/npm)
 
 
-### Demo 
+### Live Application
 
-[![Live Demo Here](https://img.shields.io/badge/website-up-orange.svg)](http://divyanshu-rawat.github.io/Game-development-JS/)
+[![Live Demo Here](https://img.shields.io/badge/website-up-orange.svg)](http://divyanshu-rawat.github.io/Game-Development-JS/)
 
 ##
 
