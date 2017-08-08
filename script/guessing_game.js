@@ -48,7 +48,7 @@ function present(guess_input)
      {
         for (i = 0; i < color.length; i++)
         {
-            if (color[i] == guess_input) 
+            if (color[i] === guess_input) 
                 return false;
         }
             return true;
