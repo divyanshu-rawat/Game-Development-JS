@@ -1,3 +1,4 @@
+// CSS for styling the game.
 
 img
 {
@@ -11,22 +12,22 @@ img
    width: 500px;
    margin-left: 5%;
 }
+
 #rightside
 {
    position: absolute;
-   height:500PX; 
+   height: 500px; 
    width: 500px;
    left: 455px;
    border-left: 2px solid white;
    margin-left: 15%;
 }
 
-
 p,h2
 {
   color: white;
   font-family: 'Dancing Script', cursive !important;
-  font-size:20px !important;
+  font-size: 20px !important;
 }
 
 body
@@ -34,5 +35,4 @@ body
   font-family: cursive;
   text-align: center;
   background: black !important;
-
 }
