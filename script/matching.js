@@ -1,6 +1,7 @@
+// Initial conditions
 var Number_0f_faces = 5;
 var score = 0;
-var my_score = document.getElementById("my_score");
+var my_score = document.getElementById("my_score"); // getElementById :  get the value of the input value.
 
 var theLeftSide=document.getElementById("leftside");
 
@@ -11,7 +12,7 @@ var thebody=document.getElementById("thebody");
 
 function generateFaces()
 {
-    console.log(Number_0f_faces);
+    console.log(Number_0f_faces); // For debugging purposes, you can use the console.log() method to display data.
 
     var count=Number_0f_faces;
     
